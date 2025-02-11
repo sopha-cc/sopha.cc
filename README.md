@@ -1,2 +1,2 @@
 # sopha.cc
-Website
+This is a repository hosting my personal website
