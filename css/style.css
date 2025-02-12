@@ -1,75 +1,99 @@
 /* Resets All CSS to complete defaults */
 * {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-size: 100%;
-  vertical-align: baseline;
-  background: transparent;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
 }
 
 html {
-  background-color: #302838;
-  color: rgb(217, 217, 217);
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  margin-top: 0cm;
+	background-color: #302838;
+	color: rgb(217, 217, 217);
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	margin-top: 0cm;
 }
 
 header {
-  margin-bottom: -10px;
+	margin-bottom: -10px;
 
-  .title {
-    text-align: left;
-    font-size: 50px;
-    color: #e7e164;
-    font-weight: bolder;
-    font-family: "Times New Roman", Times, serif;
-    max-width: fit-content;
-    float: left;
-  }
+	hr {
+		border-top: 2px solid rgb(255, 255, 255);
+		margin-top: -10px;
+		padding-bottom: 8px;
+	}
+
+	.title {
+		text-align: left;
+		font-size: 50px;
+		color: #e7e164;
+		font-weight: bolder;
+		font-family: "Times New Roman", Times, serif;
+		max-width: fit-content;
+		float: left;
+	}
 }
-
 nav {
-  text-align: right;
-  padding: 20px;
-  margin-bottom: 10px;
+	text-align: right;
+	padding: 20px;
+	margin-bottom: 10px;
 
-  ul > li {
-    list-style: none;
-    float: right;
-  }
+	ul > li {
+		list-style: none;
+		float: right;
+	}
 
-  a {
-    margin-right: 4px;
-    margin-left: 4px;
-    border-bottom: 2px;
-    border-style: double;
-    border-color: rgb(217, 217, 217);
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-    font-size: 25px;
-  }
+	a {
+		margin-right: 4px;
+		margin-left: 4px;
+		border-bottom: 2px;
+		border-style: double;
+		border-color: rgb(217, 217, 217);
+		color: rgb(255, 255, 255);
+		text-decoration: none;
+		font-size: 25px;
+	}
 
-  img {
-    height: 25px;
-  }
+	img {
+		height: 25px;
+	}
 }
 
 h1 {
-  text-align: center;
-  font-size: 80px;
-  padding: none;
-  color: #e7e164;
-  font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	font-size: 80px;
+	padding: none;
+	color: #e7e164;
+	font-family: "Times New Roman", Times, serif;
 }
 
 h2 {
-  font-size: 32px;
+	font-size: 32px;
 }
 
 #introduction {
-  h2 {
-    padding-bottom: 10px;
-  }
+	h2 {
+		padding-bottom: 10px;
+	}
+}
+
+.projects {
+	h2 {
+		text-decoration: underline;
+		color: rgb(194, 245, 202);
+	}
+	h3 {
+		font-size: 20px;
+	}
+	a {
+		color: aquamarine;
+	}
+	p {
+		font-weight: 600;
+	}
+	img {
+		height: 500px;
+	}
 }
