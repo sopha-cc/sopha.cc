@@ -114,6 +114,8 @@ footer {
 	}
 }
 .projects {
+	padding-top: 20px;
+	padding-left: 10px;
 	h2 {
 		text-decoration: underline;
 		color: rgb(194, 245, 202);
