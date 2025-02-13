@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>sopha.cc | blog</title>
+		<link rel="stylesheet" href="/css/style.css" />
+	</head>
+
+	<header>
+		<a href="/">
+			<p class="title">sopha.cc</p>
+		</a>
+		<nav>
+			<!-- List Order is reversed to how it appears in navigation -->
+			<ul>
+				<li>
+					<a href="https://bsky.app/profile/sopha.cc">
+						<img src="/images/bluesky.png" alt="bluesky logo"
+					/></a>
+				</li>
+				<li>
+					<a href="https://www.youtube.com/@TheMaid__/">
+						<img src="/images/youtube.png" alt="youtube logo"
+					/></a>
+				</li>
+				<li>
+					<a href="https://github.com/The-Maid/">
+						<img src="/images/github-mark-white.png" alt="github logo"
+					/></a>
+				</li>
+				<li><a href="/projects">projects</a></li>
+				<li><a href="/blog"> blog </a></li>
+			</ul>
+		</nav>
+		<br />
+		<hr />
+	</header>
+
+	<footer>
+		<p>
+			You are free to use any of the content on this website without any
+			liscensing of any kind.
+		</p>
+		<p>
+			Come hang out with me and some awesome people in the
+			<a href="https://discord.gg/XKrUJE5ya4"
+				>Voiddread Community Discord
+				<img src="/images/discord.png" alt="discord logo"
+			/></a>
+		</p>
+	</footer>
+</html>
