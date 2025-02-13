@@ -136,3 +136,19 @@ footer {
 #introduction {
 	padding-bottom: 140px;
 }
+
+.blogpost {
+	background-color: black;
+	border-style: ridge;
+	border-color: white;
+	border-width: 3px;
+	font-family: "Courier New", Courier, monospace;
+	color: rgb(255, 255, 255);
+	width: 1000px;
+
+	p {
+		padding-left: 8px;
+		padding-top: 8px;
+		padding-bottom: 8px;
+	}
+}
