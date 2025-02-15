@@ -24550,7 +24550,7 @@ const mj = {
         PLAY_AGAIN: "Play again?",
         THANKS_FOR_PLAYING: "Thanks for playing!",
         BUTTON_GO_TO_GAME: "Go to game",
-        BUTTON_GO_TO_JACKBOX: "Back to jackbox.tv",
+        BUTTON_GO_TO_JACKBOX: "Back to sopha.cc/jackbox",
         BUTTON_SAME_PLAYERS: "Same players",
         BUTTON_NEW_PLAYERS: "New players"
     },
@@ -35956,12 +35956,11 @@ const wae = {
         WAITING: "Waiting for Room"
     },
     Oae = {
-        ACCEPT_ALL: "Got it!",
         CONSENT_MODAL: {
             ARIA: "Cookie consent form"
         },
-        DESCRIPTION: "We use cookies to improve your game experience and analyze website traffic. Find out more in our [pp]Privacy Policy[/pp].",
-        REJECT_ALL: "Opt out"
+        DESCRIPTION: "Jackbox Attempts to use cookies, I have removed the ability to opt in.This is their [pp]Privacy Policy[/pp].",
+        REJECT_ALL: "Opt out (CLICK ME)"
     },
     Iae = {
         UNSUPPORTED_BROWSER: "This game is not supported on this browser. View '?' or HELP to see a list of compatible browsers.",
@@ -35988,9 +35987,9 @@ const wae = {
         ROOM_CODE: "ROOM CODE",
         ROOM_CODE_PLACEHOLDER: "ENTER 4-LETTER CODE"
     },
-    Pae = "Link to Jackbox Games Homepage",
+    Pae = "",
     Uae = {
-        APPEARANCE: "APPEARANCE",
+        APPEARANCE: "DO NOT USE LIGHT MODE YOUR EYES WILL BURN!!!",
         DARK: "dark",
         HELP: "HELP",
         TWITCH: "TWITCH",
@@ -36043,7 +36042,7 @@ from your past games list.`,
     kae = {
         CAMERA: "[b]HEADS UP:[/b] We’re not detecting a camera, but you can still play the game without a photo. If this seems wrong, try joining with a different browser.",
         STYLE: "[b]HEADS UP:[/b] Your browser seems a bit outdated, and will have some issues displaying this game.",
-        TOS: "By clicking {submit}, you agree to our [tos]Terms of Service[/tos]"
+        TOS: "By clicking {submit}, you agree to Jackbox's [tos]Terms of Service[/tos]"
     },
     Gae = {
         BRANCH: wae,
