@@ -1,4 +1,3 @@
-# sopha.cc
-This is a repository hosting my personal website and a modded jackbox server.
+# sopha.cc | Repository
 
-test
+This repository hosts both my personal website, as well as a custom jackbox server for hosting mods, this server was made possible by the [jackbox-int/tv](https://github.com/jackbox-int/tv) repo.
