@@ -16,7 +16,7 @@ connectedCallback(){
                         ></a>
                     </li>
                     <li>
-                        <a href="https://www.youtube.com/@TheMaid__/">
+                        <a href="https://www.youtube.com/@sopha-cc/">
                             <img src="/images/youtube.png" alt="youtube logo"
                         ></a>
                     </li>
