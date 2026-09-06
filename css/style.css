@@ -10,7 +10,7 @@
 }
 
 html {
-	background-color: #302838;
+	background-color: #1a171d;
 	color: rgb(217, 217, 217);
 	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 	margin-top: 0cm;
@@ -118,7 +118,7 @@ footer {
 	padding-left: 10px;
 	h2 {
 		text-decoration: underline;
-		color: rgb(194, 245, 202);
+		color: aquamarine;
 	}
 	h3 {
 		font-size: 20px;
